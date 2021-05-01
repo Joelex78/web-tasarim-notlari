@@ -10,4 +10,4 @@ Eğer beğenirseniz yıldızlamayı unutmayın lütfen,
 
 # Kursa hızlıca Ulaşmak için resme tıklayın.
 
-![Alt text](https://i.ytimg.com/vi/9YYxvVawZdI/maxresdefault.jpg)
+[![Alt text](https://i.ytimg.com/vi/9YYxvVawZdI/maxresdefault.jpg)](https://www.udemy.com/course/komple-web-developer-kursu/)
