@@ -1,1 +1,1 @@
-<em>Lorem ipsum</em> yazıyı aynı<i> gibi italik yapar ama yazıyı vurgulamak istenirse kullanılmalıdır
+<em>Lorem ipsum</em> yazıyı aynı <i> gibi italik yapar ama yazıyı vurgulamak istenirse kullanılmalıdır
