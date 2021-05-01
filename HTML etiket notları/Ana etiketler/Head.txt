@@ -1,0 +1,7 @@
+<head>
+
+       *Buraya Sayfayı Tanımlayan İfadeler Gelir
+
+</head> 
+
+Ana Etiketlerden biridir

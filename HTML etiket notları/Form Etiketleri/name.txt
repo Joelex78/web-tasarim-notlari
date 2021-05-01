@@ -1,0 +1,3 @@
+attribute'dür ve sınıflandırma için kullanılır
+
+server kodunun neyin ne olduğunu anlaması içinde kullanılması gerekir.

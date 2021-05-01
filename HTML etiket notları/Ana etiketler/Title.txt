@@ -1,0 +1,4 @@
+<title> *Başlık* </title>
+
+<head> etiketi içine yazılır sol üstte sekmenin ismini belirler
+

@@ -1,0 +1,1 @@
+<b>Lorem ipsum</b> = Bold = Kalın içinde olan kısmı kalın yapar

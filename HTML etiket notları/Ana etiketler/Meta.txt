@@ -1,0 +1,3 @@
+<meta name="title" content="sitenin arama motorları tarafından anlaşılması için başlık (sol üstte sekmenin ismiyle aynı yapabilirsin)">
+<meta name="keywords" content="arama motorları anahtar kelimeler ile arama yapar yani site ile ilgili anahtar kelimeleri buraya yaz"
+<meta name="description" content="siteyle ilgili açıklama yazılacak bölüm"

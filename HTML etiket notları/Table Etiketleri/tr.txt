@@ -1,0 +1,3 @@
+Table Row
+
+<tr></tr> satırı temsil eder.

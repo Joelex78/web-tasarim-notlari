@@ -1,0 +1,11 @@
+<ol>
+    <li>
+         lorem3
+    </li>
+</ol> sıralı liste için kullanılır
+
+ol>li*10 şeklinde hızlıca 10 tane yazılır.
+
+        ------>  5 ten başla ve Alfabedeki harfleri kullanarak sıra oluştur
+<ol start="5" type="A">
+        ------>  attribute = özellik

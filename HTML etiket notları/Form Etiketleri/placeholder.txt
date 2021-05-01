@@ -1,0 +1,5 @@
+placeholder attribute ile böyle kutucuk boş bo durmazda nceden hazırlanmış metin gözükür yani örneğin;
+
+Adınızı Giriniz;
+Soyadınızı Giriniz;
+E-Mailinizi Giriniz gibi.

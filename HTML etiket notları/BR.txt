@@ -1,0 +1,3 @@
+<br> = 1 satır boşluk bırakmak için kullanılır
+
+Çokça kullanılırsa yan yana yani daha fazla satır boşluk bırakılır

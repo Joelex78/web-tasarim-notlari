@@ -1,0 +1,3 @@
+<ul> </ul> Sırasız listeler için kullanıyoruz
+
+ul>li*10 şeklinde hızlıca 10 tane yazılır.

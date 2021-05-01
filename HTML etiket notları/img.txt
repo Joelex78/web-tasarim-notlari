@@ -1,0 +1,9 @@
+<img src="resmin dosya konumu"> ile temel olarak resim sayfada gösterilir
+
+özellikler/attribute = width="" Genişlik, height="" Yükseklik, alt="" resim olmazsa yazacak yazıyı belirler,
+
+                                             |
+                                             |
+                                             |
+                                             V
+                                   Gerekmedikçe Kullanma

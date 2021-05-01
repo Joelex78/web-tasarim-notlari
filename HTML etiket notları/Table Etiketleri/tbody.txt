@@ -1,0 +1,18 @@
+tablonun içinde olan herşeyi belirtmek için kullanılır.Yani sonuçta başlıkla içerik arasında fark olmalı öyle değil mi?
+
+örnek;
+
+
+ <tbody>
+            <tr>
+                <td>Komple Web Geliştirme Eğitimi</td>
+                <td>45</td>
+                <td>300</td>
+            </tr>
+
+            <tr>
+                <td>Core 2 Mvc Eğitimi : Sıfırdan İleri Seviyeye</td>
+                <td>30</td>
+                <td>200</td>
+            </tr>
+ </tbody>

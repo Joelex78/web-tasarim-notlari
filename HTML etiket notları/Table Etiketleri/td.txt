@@ -1,0 +1,25 @@
+<tr>
+
+   <!--Table data-->
+
+    <td>
+         = tablonun verilerini içerir
+    </td>
+
+</tr>
+############################################################################
+colspan attribute ile 3 tane td kullanmak yerine tek td ile işi çözebiliriz.
+
+örneğin;
+
+<td colspan="3"></td> = 3 tane td yerine geçiyor.
+
+rowspan attribute ile alt alta olan kolonları birleştirebilirsin;
+
+mesela web geliştirme eğitimindeki kurs saatleri tablosunda 200 saat olan 2 tane kolonu birleştirmek için kullanıyorduk.
+
+örneğin;
+
+<td rowspan="2"></td> = 2 tane kolonu birleştirir.
+
+sonra alttaki kolondakini silmek gerekir.

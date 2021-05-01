@@ -1,0 +1,2 @@
+<sup></sup> içindeki yazıyı üste alır genelde X üssü 2 gibi matematiksel ifadelerdeki 2 için kullanmak mantıklıdır
+<sub></sub> içindeki yazıyı aşağı alır

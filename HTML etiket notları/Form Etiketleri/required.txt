@@ -1,0 +1,1 @@
+required yazarsanız attribute şeklinde formda o kısmı doldurmadan geçmeye çalışırsanız hata vericektir doldurmanız gerektiğiyle ilgili.

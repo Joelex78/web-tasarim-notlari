@@ -1,0 +1,5 @@
+<p></p> Paragraf etiketi paragrafları gruplandırmaya yarar.
+
+Mantık olarak <br> benzerdir ama mantıken paragrafların normal cümle gibi değerlendirilmemesi gerekir,
+
+o yüzden bu etiketi kullanırız.

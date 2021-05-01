@@ -1,0 +1,6 @@
+Önem sırasına göre kullan bu etiketleri büyüklük küçüklük şekil vs css te değiştirilecek kafaya takma
+
+<h1>    </h1>    başlık için kullanılır ve en büyük yazı boyutudur sayfada en fazla 1 tane olsun
+<h2></h2>   bundan sayfada en fazla 4 tane oluştur
+
+<h6>    </h6>    en küçüktür

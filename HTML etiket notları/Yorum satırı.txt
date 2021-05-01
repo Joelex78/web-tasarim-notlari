@@ -1,0 +1,2 @@
+<!---->
+<!--Buraya Yorumunu yaz Tarayıcı bunu açıklama olarak algılar ve herhangi bir işlem yapmaz-->

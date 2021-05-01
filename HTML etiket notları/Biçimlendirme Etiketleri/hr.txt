@@ -1,0 +1,1 @@
+<hr> Horizontal Rule = Satır Boyunca Çizgi Ekler

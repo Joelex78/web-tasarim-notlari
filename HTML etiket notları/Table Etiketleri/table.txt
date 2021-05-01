@@ -1,0 +1,3 @@
+tablolar için kullanılır.
+
+<table></table> ile kullanılır.

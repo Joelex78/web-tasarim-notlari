@@ -1,0 +1,8 @@
+Bir html sayfasına başka bir html sayfası eklemek istiyorsak bunu kullanırız.
+
+<iframe src="html sayfası yolu">
+
+</iframe>
+
+
+youtubedeki videoları payla ardından yerleştir ile kendi sayfamıza ekleyebiliriz.

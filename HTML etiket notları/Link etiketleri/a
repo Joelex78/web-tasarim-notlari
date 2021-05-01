@@ -1,0 +1,13 @@
+<a href="açılacak link">görünecek kelime</a>
+
+
+
+
+<a href="#id">......</a> ile o id'ye geri dönebiliyoruz.
+
+
+
+
+<a href="link" target="_blank">
+    <img src="resim yolu">          ile de resimin içinde bir link oluşturulup tıklandığında yeni bir sekmede link açılacaktır. 'target="_blank"' ilede yeni sekmede açma attributesi.
+</a>

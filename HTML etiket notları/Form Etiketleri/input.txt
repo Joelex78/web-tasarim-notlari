@@ -1,0 +1,4 @@
+<input> = kullanıcıdan girdi almak için kullanılır.
+
+
+name attribute ile gruplama yapılabilir

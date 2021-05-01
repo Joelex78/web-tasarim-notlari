@@ -1,0 +1,12 @@
+th olan kolonun en başına ve sonuna konur.
+
+
+örnek;
+
+        <thead>
+            <tr>
+                <th>Kurs Adı</th>
+                <th>Saati</th>
+                <th>Ders Adeti</th>
+            </tr>
+        </thead>

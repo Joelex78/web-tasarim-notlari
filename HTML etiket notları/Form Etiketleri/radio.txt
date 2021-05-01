@@ -1,0 +1,2 @@
+küçük bir yuvarlak oluşturur.
+erkek , kadın gibi cinsiyet soran sorularda kullanılabilir

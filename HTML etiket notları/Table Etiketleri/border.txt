@@ -1,0 +1,1 @@
+table attribute'dür. Sınır çizgilerini belirtmek için kullanılır.
